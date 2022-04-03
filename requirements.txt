@@ -2,3 +2,6 @@ This is book store application
 you can show images
 add Type of book
 rating
+
+Add discription
+you can go on site
